@@ -1,0 +1,61 @@
+[{
+    "name": "XX99 MARK II Headphones",
+    "quantity": 0,
+    "price": 2999,
+    "totalPrice": 2999,
+    "shortName": "XX99 MK II",
+    "mobileImagePath": "./assets/product-xx99-mark-two-headphones/mobile/mk2.png",
+    "__v": 0,
+    "productID": 0
+  },
+  {
+    "name": "XX99 MARK I Headphones",
+    "quantity": 0,
+    "price": 1750,
+    "totalPrice": 1750,
+    "shortName": "XX99 MK I",
+    "mobileImagePath": "../assets/product-xx99-mark-two-headphones/mobile/mk1.png",
+    "__v": 0,
+    "productID": 1
+  },
+  {
+    "name": "XX59 Headphones",
+    "quantity": 0,
+    "price": 899,
+    "totalPrice": 899,
+    "shortName": "XX59",
+    "mobileImagePath": "../assets/product-xx99-mark-two-headphones/mobile/xx59.png",
+    "__v": 0,
+    "productID": 2
+  },
+  {
+    "name": "ZX9 Speaker",
+    "quantity": 0,
+    "price": 4500,
+    "totalPrice": 4500,
+    "shortName": "ZX9",
+    "mobileImagePath": "../assets/product-zx9-speaker/mobile/zx9.png",
+    "productID": 3,
+    "__v": 0
+  },
+  {
+    "name": "ZX7 Speaker",
+    "quantity": 0,
+    "price": 3500,
+    "totalPrice": 3500,
+    "shortName": "ZX7",
+    "mobileImagePath": "../assets/product-zx7-speaker/mobile/zx7.png",
+    "__v": 0,
+    "productID": 4
+  },
+  {
+    "name": "YX1 Wireless Earphones",
+    "quantity": 0,
+    "price": 599,
+    "totalPrice": 599,
+    "shortName": "YX1",
+    "mobileImagePath": "../assets/product-yx1-earphones/mobile/yx1.png",
+    "__v": 0,
+    "productID": 5
+  }
+  ]
